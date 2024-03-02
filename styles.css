@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+#outerbox{
+	width:300px;
+	border:1px solid black;
+	height:200px;
+	background-color:lightblue;	
+	padding:50px;
+	border: 15px solid blue;
+	box-sizing:border-box;
+	margin:20px;
+}
